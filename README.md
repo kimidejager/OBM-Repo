@@ -1,2 +1,2 @@
-# OBM-Repo
+# Online Business Models Project
 Projectgroep OBM
